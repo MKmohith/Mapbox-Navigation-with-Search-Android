@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">25363000123</string>
+    <string name="google_api_key" translatable="false">AIzaSyCTvJKHym3Ow2ZG5t5mQs9ukBDuC8HYYA4</string>
+    <string name="google_app_id" translatable="false">1:25363000123:android:fcba0dbb5938e0f05ce51e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCTvJKHym3Ow2ZG5t5mQs9ukBDuC8HYYA4</string>
+    <string name="google_storage_bucket" translatable="false">mapbox-navigation-17091.appspot.com</string>
+    <string name="project_id" translatable="false">mapbox-navigation-17091</string>
+</resources>

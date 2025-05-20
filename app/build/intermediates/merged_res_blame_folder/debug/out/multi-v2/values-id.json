@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.mapboxnavigation.app-mergeDebugResources-57:/values-id/values-id.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\MONIKA\\.gradle\\caches\\transforms-3\\f6a948f077899a8caf4625ca776f82fb\\transformed\\ui-voice-2.15.2\\res\\values-id\\values-id.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,112",
+                        "endColumns": "56,59",
+                        "endOffsets": "107,167"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "120,177",
+                        "endColumns": "56,59",
+                        "endOffsets": "172,232"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\MONIKA\\.gradle\\caches\\transforms-3\\1f6ce735d637c506092005b787779eab\\transformed\\base-2.15.2\\res\\values-id\\values-id.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "64",
+                        "endOffsets": "115"
+                    }
+                }
+            ]
+        }
+    ]
+}
